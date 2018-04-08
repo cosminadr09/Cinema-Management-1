@@ -1,0 +1,14 @@
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.csprojResolveAssemblyReference.cache
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.AdminForm.resources
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.EmployeeForm.resources
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.LoginForm.resources
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.Properties.Resources.resources
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.csproj.GenerateResource.cache
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.csproj.CoreCompileInputs.cache
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\bin\Debug\gestiuneFilmBilete1.exe.config
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\bin\Debug\gestiuneFilmBilete1.exe
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\bin\Debug\gestiuneFilmBilete1.pdb
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.exe
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.pdb
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.GridForm.resources
+D:\FACULTA\AN3\S2\PS\lab\tema1\gestiuneFilmBilete1\gestiuneFilmBilete1\obj\Debug\gestiuneFilmBilete1.ViewFilmsForm.resources
